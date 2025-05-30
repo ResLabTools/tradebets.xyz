@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Internal Redirect - TradeBets</title>
+  <meta http-equiv="refresh" content="5; url=https://tradebets.xyz">
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding-top: 15%;
+      background-color: #fafafa;
+      color: #333;
+    }
+    .timer {
+      font-weight: bold;
+      font-size: 2em;
+    }
+  </style>
+</head>
+<body>
+  <p>This page was used for internal signal verification testing.</p>
+  <p>You will be redirected to the main TradeBets site shortly.</p>
+  <p class="timer">Redirecting in <span id="countdown">5</span> seconds...</p>
+  <script>
+    let timeLeft = 5;
+    const countdown = document.getElementById('countdown');
+    setInterval(() => {
+      timeLeft--;
+      if (timeLeft <= 0) return;
+      countdown.textContent = timeLeft;
+    }, 1000);
+  </script>
+</body>
+</html>

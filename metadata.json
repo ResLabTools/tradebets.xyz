@@ -1,0 +1,7 @@
+{
+  "project": "TradeBets Signal Engine",
+  "status": "archived",
+  "lastUpdated": "2022-01-09",
+  "environment": "deprecated",
+  "coverage": ["handball", "basketball", "football", "soccer", "cricket"]
+}

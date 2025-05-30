@@ -1,0 +1,7 @@
+[
+  {"date": "2022-01-02", "sport": "handball", "match": "Paris vs Kiel", "result": "Win"},
+  {"date": "2022-01-04", "sport": "football", "match": "Arsenal vs Man City", "result": "Loss"},
+  {"date": "2022-01-05", "sport": "basketball", "match": "Heat vs Warriors", "result": "Win"},
+  {"date": "2022-01-07", "sport": "soccer", "match": "Juventus vs Napoli", "result": "Draw"},
+  {"date": "2022-01-08", "sport": "cricket", "match": "Australia vs England", "result": "Win"}
+]
