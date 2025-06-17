@@ -1,0 +1,10 @@
+TradeBets Archive Checklist – January 2022 Signal Report
+
+[x] JSON stats finalized
+[x] Match data validated (handball, football, cricket)
+[x] Signal report PDF rendered
+[ ] Internal access log (pending)
+[ ] API token rotation (paused)
+[ ] Bot timing analysis (skipped)
+
+Status: Partial archive freeze during maintenance window.
